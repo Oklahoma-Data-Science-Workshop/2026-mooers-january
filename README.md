@@ -9,6 +9,7 @@ The repository contains the supplemental materials for the ODSW talk given on 20
    - Click on ODSWTutorial2026.zip above.
    - Select "Download raw file" button in the upper righthand corner.
 3. Unzip the zip file in your home directory.
-4. File --> open vault (triggers a GUI to open).
-5. Select "Open folder as vault"
-6. Navigate to ODSWTutorial2026 and select it. A list of 30 files will appear.
+4. Start Obisidian by double clicking on its icon.
+5. From the toolbar or Obsidian GUI, select File --> open vault (triggers a GUI to open).
+6. Select "Open folder as vault"
+7. Navigate to ODSWTutorial2026 and select it. A list of 30 files will appear.
