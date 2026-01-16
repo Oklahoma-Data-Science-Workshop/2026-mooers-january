@@ -12,4 +12,10 @@ The repository contains the supplemental materials for the ODSW talk given on 20
 4. Start Obisidian by double clicking on its icon.
 5. From the toolbar or Obsidian GUI, select File --> open vault (triggers a GUI to open).
 6. Select "Open folder as vault"
-7. Navigate to ODSWTutorial2026 and select it. A list of 30 files will appear.
+7. Navigate to ODSWTutorial2026 and select it. A list of >30 files will appear.
+
+## For developers
+
+The zip file contains the homemade plugin bidirectional-folgezettel.
+The Typscript source file and tests are located [here](https://github.com/MooersLab/bidirectional-folgezettel).
+You are welcome to make pull requests.
