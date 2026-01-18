@@ -35,5 +35,5 @@ You are welcome to make pull requests.
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.1 |  Initial commit.                                                                                                                      | 2026 January 15           |
-| Version 0.2 |  Finished the filling in the atomic notes.                                                                                            | 2026 January 17           |
+| Version 0.2 |  Finished filling in the atomic notes.                                                                                            | 2026 January 17           |
 
