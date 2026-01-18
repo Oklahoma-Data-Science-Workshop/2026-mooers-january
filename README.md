@@ -1,6 +1,13 @@
 # Using Obsidian with AI to support scientific writing
 
+## Supplemental materials
 The repository contains the supplemental materials for the ODSW talk given on 2026 January 16 by Blaine Mooers.
+
+1. mooers2026jan16.pdf: slides
+2. 
+
+
+
 
 ## Do the following before the meeting (will take 5-15 minutes)
 
