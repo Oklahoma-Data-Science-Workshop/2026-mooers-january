@@ -1,10 +1,13 @@
+![Version](https://img.shields.io/static/v0.2?label=2026-mooers-january&message=0.2&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Using Obsidian with AI to support scientific writing
 
 ## Supplemental materials
 The repository contains the supplemental materials for the ODSW talk given on 2026 January 16 by Blaine Mooers.
 
-1. mooers2026jan16.pdf: slides
-2. 
+1. mooers2026jan16.pdf: slides shown.
+2. ODSWTutorial2026.zip: tutorial Vault for use with Obsidian. 
 
 
 
@@ -26,3 +29,11 @@ The repository contains the supplemental materials for the ODSW talk given on 20
 The zip file contains the homemade plugin bidirectional-folgezettel.
 The Typscript source file and tests are located [here](https://github.com/MooersLab/bidirectional-folgezettel).
 You are welcome to make pull requests.
+
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.1 |  Initial commit.                                                                                                                      | 2026 January 15           |
+| Version 0.2 |  Finished the filling in the atomic notes.                                                                                            | 2026 January 17           |
+
